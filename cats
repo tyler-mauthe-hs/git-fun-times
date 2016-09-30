@@ -4,3 +4,5 @@ Meow for food, then when human fills food dish, take a few bites of food and con
 "They tell me, sir, that Stubb did once desert poor little Pip, whose drowned bones now show white, for all the blackness of his living skin. But I will never desert ye, sir, as Stubb did him. Sir, I must go with ye."
 "If thou speakest thus to me much more, Ahab's purpose keels up in him. I tell thee no; it cannot be."
 "Oh good master, master, master!
+
+Something else.
